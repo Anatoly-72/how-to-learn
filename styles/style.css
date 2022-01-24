@@ -150,7 +150,7 @@
 }
 
 .section-title {
-  width: 60%;  
+  width: 60%;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
@@ -176,8 +176,8 @@
 .table {
   display: flex;
   flex-wrap: wrap;
-  width: 1100px;      
-  justify-content: space-between;    
+  width: 1100px;
+  justify-content: space-between;
 }
 
 .table_theme_light {
@@ -255,17 +255,17 @@
 }
 
 .kaufman_theme_dark {
-  background-color: #1f1f1f;  
-  padding-bottom: 90px;  
+  background-color: #1f1f1f;
+  padding-bottom: 90px;
 }
 
-.section-title_theme_dark { 
-  margin: 90px auto 0;  
+.section-title_theme_dark {
+  margin: 90px auto 0;
   color: #fff;
 }
 
 .section-subtitle_theme_dark {
-  margin: 20px auto 0;  
+  margin: 20px auto 0;
   color: #fff;
 }
 
@@ -274,11 +274,11 @@
 }
 
 .table__cell_theme_dark {
-  width: 200px;    
+  width: 200px;
   margin-top: 80px;
   color: #fff;
   position: relative;
-  z-index: 1; 
+  z-index: 1;
 }
 
 .kaufman__triangle {
