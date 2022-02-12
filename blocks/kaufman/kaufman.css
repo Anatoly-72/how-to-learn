@@ -1,4 +1,7 @@
 .kaufman {
   position: relative;
   overflow: hidden;
+  padding: 90px 0;
+  /* display: flex;
+  justify-content: center; */
 }
